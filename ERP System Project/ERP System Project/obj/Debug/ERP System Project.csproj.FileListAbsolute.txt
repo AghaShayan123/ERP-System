@@ -1,0 +1,13 @@
+E:\VP Programs\ERP System Project\ERP System Project\bin\Debug\ERP System Project.exe.config
+E:\VP Programs\ERP System Project\ERP System Project\bin\Debug\ERP System Project.exe
+E:\VP Programs\ERP System Project\ERP System Project\bin\Debug\ERP System Project.pdb
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP System Project.csprojResolveAssemblyReference.cache
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP_System_Project.ERP.resources
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP_System_Project.Login.resources
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP_System_Project.Myconn.resources
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP_System_Project.Properties.Resources.resources
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP System Project.csproj.GenerateResource.Cache
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP System Project.exe
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP System Project.pdb
+E:\VP Programs\ERP System Project\ERP System Project\obj\Debug\ERP_System_Project.Form1.resources
+E:\VP Programs\ERP System Project\ERP System Project\bin\Debug\Metro.dll
